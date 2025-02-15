@@ -10,7 +10,7 @@ class TransferToHumanAgents(Tool):
         data: Dict[str, Any],
         summary: str,
     ) -> str:
-        return "Transfer successful"
+        return "Аудару сәтті аяқталды."
 
     @staticmethod
     def get_info() -> Dict[str, Any]:
@@ -18,13 +18,13 @@ class TransferToHumanAgents(Tool):
             "type": "function",
             "function": {
                 "name": "transfer_to_human_agents",
-                "description": "Transfer the user to a human agent, with a summary of the user's issue. Only transfer if the user explicitly asks for a human agent, or if the user's issue cannot be resolved by the agent with the available tools.",
+                "description": "Пайдаланушыны адам агентіне бағыттаңыз, оның мәселесінің қысқаша сипаттамасымен бірге. Тек пайдаланушы арнайы адам агентін сұрағанда немесе мәселені қолжетімді құралдармен шешу мүмкін болмағанда ғана аударыңыз.",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "summary": {
                             "type": "string",
-                            "description": "A summary of the user's issue.",
+                            "description": "Пайдаланушы мәселесінің қысқаша сипаттамасы.",
                         },
                     },
                     "required": [

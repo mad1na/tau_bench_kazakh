@@ -13,7 +13,7 @@ class CancelReservation(Tool):
     ) -> str:
         reservations = data["reservations"]
         if reservation_id not in reservations:
-            return "Error: reservation not found"
+            return "Қате: брондау табылмады"
         reservation = reservations[reservation_id]
 
         # reverse the payment
@@ -35,13 +35,13 @@ class CancelReservation(Tool):
             "type": "function",
             "function": {
                 "name": "cancel_reservation",
-                "description": "Cancel the whole reservation.",
+                "description": "Бүкіл брондауды жойыңыз."",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "reservation_id": {
                             "type": "string",
-                            "description": "The reservation ID, such as 'ZFA04Y'.",
+                            "description": "Брондау идентификаторы, мысалы, 'ZFA04Y'.",
                         },
                     },
                     "required": ["reservation_id"],

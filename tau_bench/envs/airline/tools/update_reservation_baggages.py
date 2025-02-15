@@ -16,20 +16,20 @@ class UpdateReservationBaggages(Tool):
     ) -> str:
         users, reservations = data["users"], data["reservations"]
         if reservation_id not in reservations:
-            return "Error: reservation not found"
+            return "Қате: брондау табылмады"
         reservation = reservations[reservation_id]
 
         total_price = 50 * max(0, nonfree_baggages - reservation["nonfree_baggages"])
         if payment_id not in users[reservation["user_id"]]["payment_methods"]:
-            return "Error: payment method not found"
+            return "Қате: төлем әдісі табылмады"
         payment_method = users[reservation["user_id"]]["payment_methods"][payment_id]
         if payment_method["source"] == "certificate":
-            return "Error: certificate cannot be used to update reservation"
+            return "Қате: сертификатты брондауды жаңарту үшін қолдануға болмайды"
         elif (
             payment_method["source"] == "gift_card"
             and payment_method["amount"] < total_price
         ):
-            return "Error: gift card balance is not enough"
+            return "Қате: сыйлық картадағы баланс жеткіліксіз"
 
         reservation["total_baggages"] = total_baggages
         reservation["nonfree_baggages"] = nonfree_baggages
@@ -52,25 +52,25 @@ class UpdateReservationBaggages(Tool):
             "type": "function",
             "function": {
                 "name": "update_reservation_baggages",
-                "description": "Update the baggage information of a reservation.",
+                "description": "Брондаудың жүк туралы ақпаратын жаңарту.",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "reservation_id": {
                             "type": "string",
-                            "description": "The reservation ID, such as 'ZFA04Y'.",
+                            "description": "Брондау идентификаторы, мысалы, 'ZFA04Y'.",
                         },
                         "total_baggages": {
                             "type": "integer",
-                            "description": "The updated total number of baggage items included in the reservation.",
+                            "description": "Брондауға енгізілген жалпы жүк санын жаңарту.",
                         },
                         "nonfree_baggages": {
                             "type": "integer",
-                            "description": "The updated number of non-free baggage items included in the reservation.",
+                            "description": "Брондауға енгізілген ақылы жүк санын жаңарту.",
                         },
                         "payment_id": {
                             "type": "string",
-                            "description": "The payment id stored in user profile, such as 'credit_card_7815826', 'gift_card_7815826', 'certificate_7815826'.",
+                            "description": "Пайдаланушы профилінде сақталған төлем идентификаторы, мысалы, 'credit_card_7815826', 'gift_card_7815826', 'certificate_7815826'.",
                         },
                     },
                     "required": [

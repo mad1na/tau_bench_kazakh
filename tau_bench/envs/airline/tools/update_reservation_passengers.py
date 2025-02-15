@@ -14,10 +14,10 @@ class UpdateReservationPassengers(Tool):
     ) -> str:
         reservations = data["reservations"]
         if reservation_id not in reservations:
-            return "Error: reservation not found"
+            return "Қате: брондау табылмады"
         reservation = reservations[reservation_id]
         if len(passengers) != len(reservation["passengers"]):
-            return "Error: number of passengers does not match"
+            return "Қате: жолаушылар саны сәйкес келмейді"
         reservation["passengers"] = passengers
         return json.dumps(reservation)
 
@@ -27,31 +27,31 @@ class UpdateReservationPassengers(Tool):
             "type": "function",
             "function": {
                 "name": "update_reservation_passengers",
-                "description": "Update the passenger information of a reservation.",
+                "description": "Брондаудың жолаушылар туралы ақпаратын жаңарту.",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "reservation_id": {
                             "type": "string",
-                            "description": "The reservation ID, such as 'ZFA04Y'.",
+                            "description": "Брондау идентификаторы, мысалы, 'ZFA04Y'.",
                         },
                         "passengers": {
                             "type": "array",
-                            "description": "An array of objects containing details about each passenger.",
+                            "description": "Әрбір жолаушы туралы мәліметтерді қамтитын объектілер массиві.",
                             "items": {
                                 "type": "object",
                                 "properties": {
                                     "first_name": {
                                         "type": "string",
-                                        "description": "The first name of the passenger, such as 'Noah'.",
+                                        "description": "Жолаушының аты, мысалы, 'Noah'.",
                                     },
                                     "last_name": {
                                         "type": "string",
-                                        "description": "The last name of the passenger, such as 'Brown'.",
+                                        "description": "Жолаушының тегі, мысалы, 'Brown'.",
                                     },
                                     "dob": {
                                         "type": "string",
-                                        "description": "The date of birth of the passenger in the format 'YYYY-MM-DD', such as '1990-01-01'.",
+                                        "description": "Жолаушының туған күні 'YYYY-MM-DD' форматында, мысалы, '1990-01-01'.",
                                     },
                                 },
                                 "required": ["first_name", "last_name", "dob"],

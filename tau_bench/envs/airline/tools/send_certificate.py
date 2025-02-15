@@ -13,7 +13,7 @@ class SendCertificate(Tool):
     ) -> str:
         users = data["users"]
         if user_id not in users:
-            return "Error: user not found"
+            return "Қате: пайдаланушы табылмады."
         user = users[user_id]
 
         # add a certificate, assume at most 3 cases per task
@@ -25,7 +25,7 @@ class SendCertificate(Tool):
                     "amount": amount,
                     "id": payment_id,
                 }
-                return f"Certificate {payment_id} added to user {user_id} with amount {amount}."
+                return f"Сертификат {payment_id} пайдаланушыға {user_id} қосылды, сомасы {amount}."
 
     @staticmethod
     def get_info() -> Dict[str, Any]:
@@ -33,17 +33,17 @@ class SendCertificate(Tool):
             "type": "function",
             "function": {
                 "name": "send_certificate",
-                "description": "Send a certificate to a user. Be careful!",
+                "description": "Пайдаланушыға сертификат жіберу. Абай болыңыз!",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "user_id": {
                             "type": "string",
-                            "description": "The ID of the user to book the reservation, such as 'sara_doe_496'.",
+                            "description": "Брондауды жасайтын пайдаланушының идентификаторы, мысалы, 'sara_doe_496'.",
                         },
                         "amount": {
                             "type": "number",
-                            "description": "Certificate amount to send.",
+                            "description": "Жіберілетін сертификат сомасы.",
                         },
                     },
                     "required": ["user_id", "amount"],

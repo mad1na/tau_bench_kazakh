@@ -27,21 +27,21 @@ class SearchDirectFlight(Tool):
             "type": "function",
             "function": {
                 "name": "search_direct_flight",
-                "description": "Search direct flights between two cities on a specific date.",
+                "description": "Белгілі бір күнге екі қала арасындағы тікелей рейстерді іздеңіз.",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "origin": {
                             "type": "string",
-                            "description": "The origin city airport in three letters, such as 'JFK'.",
+                            "description": "Бастапқы қала әуежайының үш әріпті коды, мысалы, 'ALA'.",
                         },
                         "destination": {
                             "type": "string",
-                            "description": "The destination city airport in three letters, such as 'LAX'.",
+                            "description": "Мақсатты қала әуежайының үш әріпті коды, мысалы, 'NQZ'.",
                         },
                         "date": {
                             "type": "string",
-                            "description": "The date of the flight in the format 'YYYY-MM-DD', such as '2024-01-01'.",
+                            "description": "Рейстің күні 'YYYY-MM-DD' форматында, мысалы, '2024-01-01'.",
                         },
                     },
                     "required": ["origin", "destination", "date"],

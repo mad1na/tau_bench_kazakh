@@ -11,7 +11,7 @@ class GetReservationDetails(Tool):
         reservations = data["reservations"]
         if reservation_id in reservations:
             return json.dumps(reservations[reservation_id])
-        return "Error: user not found"
+        return "Қате: пайдаланушы табылмады"
 
     @staticmethod
     def get_info() -> Dict[str, Any]:
@@ -19,13 +19,13 @@ class GetReservationDetails(Tool):
             "type": "function",
             "function": {
                 "name": "get_reservation_details",
-                "description": "Get the details of a reservation.",
+                "description": "Брондаудың толық мәліметтерін алыңыз.",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "reservation_id": {
                             "type": "string",
-                            "description": "The reservation id, such as '8JX2WO'.",
+                            "description": "Брондау идентификаторы, мысалы, '8JX2WO'.",
                         },
                     },
                     "required": ["reservation_id"],
