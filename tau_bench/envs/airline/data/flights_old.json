@@ -2,7 +2,7 @@
     "HAT001": {
         "flight_number": "HAT001",
         "origin": "UKK",
-        "destination": "FRU",
+        "destination": "ALA",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "07:00:00",
         "dates": {
@@ -276,8 +276,8 @@
     },
     "HAT002": {
         "flight_number": "HAT002",
-        "origin": "FRU",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "21:00:00",
         "scheduled_arrival_time_est": "01:30:00+1",
         "dates": {
@@ -556,7 +556,7 @@
     "HAT003": {
         "flight_number": "HAT003",
         "origin": "KZO",
-        "destination": "KGF",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "09:00:00",
         "dates": {
@@ -833,7 +833,7 @@
     "HAT004": {
         "flight_number": "HAT004",
         "origin": "CIT",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "16:00:00",
         "dates": {
@@ -1382,8 +1382,8 @@
     },
     "HAT006": {
         "flight_number": "HAT006",
-        "origin": "OVB",
-        "destination": "OMS",
+        "origin": "UKK",
+        "destination": "PPK",
         "scheduled_departure_time_est": "03:00:00",
         "scheduled_arrival_time_est": "08:30:00",
         "dates": {
@@ -1936,7 +1936,7 @@
     },
     "HAT008": {
         "flight_number": "HAT008",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "11:00:00",
         "scheduled_arrival_time_est": "16:00:00",
@@ -2213,8 +2213,8 @@
     },
     "HAT009": {
         "flight_number": "HAT009",
-        "origin": "BHK",
-        "destination": "AKX",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "19:00:00",
         "dates": {
@@ -2767,8 +2767,8 @@
     },
     "HAT011": {
         "flight_number": "HAT011",
-        "origin": "OMS",
-        "destination": "AKX",
+        "origin": "PPK",
+        "destination": "ALA",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "15:00:00",
         "dates": {
@@ -3321,7 +3321,7 @@
     },
     "HAT013": {
         "flight_number": "HAT013",
-        "origin": "OVB",
+        "origin": "UKK",
         "destination": "URA",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "22:30:00",
@@ -3601,7 +3601,7 @@
     "HAT014": {
         "flight_number": "HAT014",
         "origin": "ALA",
-        "destination": "ASB",
+        "destination": "AKX",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "20:00:00",
         "dates": {
@@ -4426,7 +4426,7 @@
     "HAT017": {
         "flight_number": "HAT017",
         "origin": "URA",
-        "destination": "OVB",
+        "destination": "UKK",
         "scheduled_departure_time_est": "10:00:00",
         "scheduled_arrival_time_est": "13:30:00",
         "dates": {
@@ -4700,7 +4700,7 @@
     },
     "HAT018": {
         "flight_number": "HAT018",
-        "origin": "OMS",
+        "origin": "PPK",
         "destination": "KZO",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "18:30:00",
@@ -4977,7 +4977,7 @@
     },
     "HAT019": {
         "flight_number": "HAT019",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "20:00:00",
@@ -5254,8 +5254,8 @@
     },
     "HAT020": {
         "flight_number": "HAT020",
-        "origin": "HSA",
-        "destination": "PWQ",
+        "origin": "NQZ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "23:00:00",
         "dates": {
@@ -5527,7 +5527,7 @@
     },
     "HAT021": {
         "flight_number": "HAT021",
-        "origin": "OMS",
+        "origin": "PPK",
         "destination": "ALA",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "01:00:00+1",
@@ -5803,7 +5803,7 @@
     "HAT022": {
         "flight_number": "HAT022",
         "origin": "GUW",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "12:00:00",
         "scheduled_arrival_time_est": "15:00:00",
         "dates": {
@@ -6080,7 +6080,7 @@
     "HAT023": {
         "flight_number": "HAT023",
         "origin": "ALA",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "20:00:00",
         "dates": {
@@ -6357,7 +6357,7 @@
     "HAT024": {
         "flight_number": "HAT024",
         "origin": "DMB",
-        "destination": "FRU",
+        "destination": "ALA",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "03:30:00",
         "dates": {
@@ -6912,8 +6912,8 @@
     },
     "HAT026": {
         "flight_number": "HAT026",
-        "origin": "AKX",
-        "destination": "OVB",
+        "origin": "ALA",
+        "destination": "UKK",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "22:00:00",
         "dates": {
@@ -7189,7 +7189,7 @@
     },
     "HAT027": {
         "flight_number": "HAT027",
-        "origin": "BHK",
+        "origin": "KZO",
         "destination": "KZO",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "14:00:00",
@@ -7463,7 +7463,7 @@
     "HAT028": {
         "flight_number": "HAT028",
         "origin": "URA",
-        "destination": "OVB",
+        "destination": "UKK",
         "scheduled_departure_time_est": "05:00:00",
         "scheduled_arrival_time_est": "08:30:00",
         "dates": {
@@ -7741,7 +7741,7 @@
     },
     "HAT029": {
         "flight_number": "HAT029",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "03:00:00",
         "scheduled_arrival_time_est": "04:00:00",
@@ -8019,7 +8019,7 @@
     "HAT030": {
         "flight_number": "HAT030",
         "origin": "GUW",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "00:00:00+1",
         "dates": {
@@ -8293,7 +8293,7 @@
     },
     "HAT031": {
         "flight_number": "HAT031",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "NQZ",
         "scheduled_departure_time_est": "10:00:00",
         "scheduled_arrival_time_est": "13:00:00",
@@ -8568,8 +8568,8 @@
     },
     "HAT032": {
         "flight_number": "HAT032",
-        "origin": "BHK",
-        "destination": "AKX",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "11:00:00",
         "scheduled_arrival_time_est": "13:00:00",
         "dates": {
@@ -8840,7 +8840,7 @@
     "HAT033": {
         "flight_number": "HAT033",
         "origin": "ALA",
-        "destination": "PWQ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "02:00:00",
         "dates": {
@@ -9119,7 +9119,7 @@
     "HAT034": {
         "flight_number": "HAT034",
         "origin": "GUW",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "08:30:00",
         "dates": {
@@ -9393,8 +9393,8 @@
     },
     "HAT035": {
         "flight_number": "HAT035",
-        "origin": "PWQ",
-        "destination": "BHK",
+        "origin": "PPK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "19:00:00",
         "dates": {
@@ -9947,8 +9947,8 @@
     },
     "HAT037": {
         "flight_number": "HAT037",
-        "origin": "OMS",
-        "destination": "TAS",
+        "origin": "PPK",
+        "destination": "KSN",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "19:00:00",
         "dates": {
@@ -10226,8 +10226,8 @@
     },
     "HAT038": {
         "flight_number": "HAT038",
-        "origin": "TAS",
-        "destination": "OMS",
+        "origin": "KSN",
+        "destination": "PPK",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "10:00:00",
         "dates": {
@@ -10502,7 +10502,7 @@
     "HAT039": {
         "flight_number": "HAT039",
         "origin": "CIT",
-        "destination": "OMS",
+        "destination": "PPK",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "03:00:00+1",
         "dates": {
@@ -10779,7 +10779,7 @@
     "HAT040": {
         "flight_number": "HAT040",
         "origin": "KZO",
-        "destination": "OMS",
+        "destination": "PPK",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "02:30:00",
         "dates": {
@@ -11334,7 +11334,7 @@
     },
     "HAT042": {
         "flight_number": "HAT042",
-        "origin": "AKX",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "12:00:00",
@@ -11889,7 +11889,7 @@
     "HAT044": {
         "flight_number": "HAT044",
         "origin": "SCO",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "22:30:00",
         "dates": {
@@ -12167,8 +12167,8 @@
     },
     "HAT045": {
         "flight_number": "HAT045",
-        "origin": "BHK",
-        "destination": "OMS",
+        "origin": "KZO",
+        "destination": "PPK",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "02:00:00+1",
         "dates": {
@@ -12444,8 +12444,8 @@
     },
     "HAT046": {
         "flight_number": "HAT046",
-        "origin": "KGF",
-        "destination": "TAS",
+        "origin": "PWQ",
+        "destination": "KSN",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "02:00:00",
         "dates": {
@@ -12724,7 +12724,7 @@
     "HAT047": {
         "flight_number": "HAT047",
         "origin": "KZO",
-        "destination": "OMS",
+        "destination": "PPK",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "15:30:00",
         "dates": {
@@ -13003,7 +13003,7 @@
     "HAT048": {
         "flight_number": "HAT048",
         "origin": "URA",
-        "destination": "BHK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "23:30:00",
         "dates": {
@@ -13281,8 +13281,8 @@
     },
     "HAT049": {
         "flight_number": "HAT049",
-        "origin": "HSA",
-        "destination": "KGF",
+        "origin": "NQZ",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "19:00:00",
         "dates": {
@@ -13558,7 +13558,7 @@
     },
     "HAT050": {
         "flight_number": "HAT050",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "21:00:00",
         "scheduled_arrival_time_est": "02:00:00+1",
@@ -13833,8 +13833,8 @@
     },
     "HAT051": {
         "flight_number": "HAT051",
-        "origin": "BHK",
-        "destination": "FRU",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "01:00:00",
         "scheduled_arrival_time_est": "05:30:00",
         "dates": {
@@ -14381,7 +14381,7 @@
     },
     "HAT053": {
         "flight_number": "HAT053",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "DMB",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "18:00:00",
@@ -14931,8 +14931,8 @@
     },
     "HAT055": {
         "flight_number": "HAT055",
-        "origin": "OMS",
-        "destination": "TAS",
+        "origin": "PPK",
+        "destination": "KSN",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "18:00:00",
         "dates": {
@@ -15758,7 +15758,7 @@
     },
     "HAT058": {
         "flight_number": "HAT058",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "DMB",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "21:00:00",
@@ -16034,7 +16034,7 @@
     "HAT059": {
         "flight_number": "HAT059",
         "origin": "CIT",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "09:00:00",
         "dates": {
@@ -16313,7 +16313,7 @@
     "HAT060": {
         "flight_number": "HAT060",
         "origin": "ALA",
-        "destination": "ASB",
+        "destination": "AKX",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "17:00:00",
         "dates": {
@@ -16868,7 +16868,7 @@
     },
     "HAT062": {
         "flight_number": "HAT062",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "KZO",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "02:30:00+1",
@@ -17147,7 +17147,7 @@
     },
     "HAT063": {
         "flight_number": "HAT063",
-        "origin": "TAS",
+        "origin": "KSN",
         "destination": "NQZ",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "21:30:00",
@@ -17423,7 +17423,7 @@
     "HAT064": {
         "flight_number": "HAT064",
         "origin": "DMB",
-        "destination": "OVB",
+        "destination": "UKK",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "16:00:00",
         "dates": {
@@ -17699,7 +17699,7 @@
     },
     "HAT065": {
         "flight_number": "HAT065",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "DMB",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "09:30:00",
@@ -17976,8 +17976,8 @@
     },
     "HAT066": {
         "flight_number": "HAT066",
-        "origin": "BHK",
-        "destination": "FRU",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "21:00:00",
         "scheduled_arrival_time_est": "01:30:00+1",
         "dates": {
@@ -18253,8 +18253,8 @@
     },
     "HAT067": {
         "flight_number": "HAT067",
-        "origin": "TAS",
-        "destination": "OMS",
+        "origin": "KSN",
+        "destination": "PPK",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "03:00:00+1",
         "dates": {
@@ -18808,7 +18808,7 @@
     "HAT069": {
         "flight_number": "HAT069",
         "origin": "ALA",
-        "destination": "OMS",
+        "destination": "PPK",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "12:00:00",
         "dates": {
@@ -19639,7 +19639,7 @@
     "HAT072": {
         "flight_number": "HAT072",
         "origin": "SCO",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "09:00:00",
         "scheduled_arrival_time_est": "13:00:00",
         "dates": {
@@ -19917,8 +19917,8 @@
     },
     "HAT073": {
         "flight_number": "HAT073",
-        "origin": "BHK",
-        "destination": "PWQ",
+        "origin": "KZO",
+        "destination": "PPK",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "10:00:00",
         "dates": {
@@ -20194,7 +20194,7 @@
     },
     "HAT074": {
         "flight_number": "HAT074",
-        "origin": "AKX",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "05:00:00",
         "scheduled_arrival_time_est": "11:00:00",
@@ -20747,7 +20747,7 @@
     "HAT076": {
         "flight_number": "HAT076",
         "origin": "UKK",
-        "destination": "KGF",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "16:30:00",
         "dates": {
@@ -21301,7 +21301,7 @@
     "HAT078": {
         "flight_number": "HAT078",
         "origin": "SCO",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "01:00:00",
         "scheduled_arrival_time_est": "03:30:00",
         "dates": {
@@ -21578,7 +21578,7 @@
     "HAT079": {
         "flight_number": "HAT079",
         "origin": "ALA",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "02:30:00",
         "dates": {
@@ -21856,7 +21856,7 @@
     },
     "HAT080": {
         "flight_number": "HAT080",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "UKK",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "10:30:00",
@@ -22131,8 +22131,8 @@
     },
     "HAT081": {
         "flight_number": "HAT081",
-        "origin": "BHK",
-        "destination": "FRU",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "12:00:00",
         "scheduled_arrival_time_est": "16:30:00",
         "dates": {
@@ -22406,7 +22406,7 @@
     },
     "HAT082": {
         "flight_number": "HAT082",
-        "origin": "AKX",
+        "origin": "ALA",
         "destination": "SCO",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "03:00:00+1",
@@ -22686,7 +22686,7 @@
     "HAT083": {
         "flight_number": "HAT083",
         "origin": "ALA",
-        "destination": "OMS",
+        "destination": "PPK",
         "scheduled_departure_time_est": "01:00:00",
         "scheduled_arrival_time_est": "07:00:00",
         "dates": {
@@ -22960,7 +22960,7 @@
     },
     "HAT084": {
         "flight_number": "HAT084",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "KZO",
         "scheduled_departure_time_est": "04:00:00",
         "scheduled_arrival_time_est": "06:00:00",
@@ -23514,8 +23514,8 @@
     },
     "HAT086": {
         "flight_number": "HAT086",
-        "origin": "OVB",
-        "destination": "ASB",
+        "origin": "UKK",
+        "destination": "AKX",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "04:00:00",
         "dates": {
@@ -23792,7 +23792,7 @@
     "HAT087": {
         "flight_number": "HAT087",
         "origin": "DMB",
-        "destination": "FRU",
+        "destination": "ALA",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "18:30:00",
         "dates": {
@@ -24063,7 +24063,7 @@
     "HAT088": {
         "flight_number": "HAT088",
         "origin": "ALA",
-        "destination": "PWQ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "04:00:00",
         "scheduled_arrival_time_est": "06:00:00",
         "dates": {
@@ -24337,7 +24337,7 @@
     },
     "HAT089": {
         "flight_number": "HAT089",
-        "origin": "OMS",
+        "origin": "PPK",
         "destination": "ALA",
         "scheduled_departure_time_est": "10:00:00",
         "scheduled_arrival_time_est": "16:00:00",
@@ -24615,7 +24615,7 @@
     "HAT090": {
         "flight_number": "HAT090",
         "origin": "GUW",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "01:00:00",
         "scheduled_arrival_time_est": "05:00:00",
         "dates": {
@@ -24891,7 +24891,7 @@
     },
     "HAT091": {
         "flight_number": "HAT091",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "09:00:00",
@@ -25171,7 +25171,7 @@
     "HAT092": {
         "flight_number": "HAT092",
         "origin": "ALA",
-        "destination": "PWQ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "02:00:00",
         "dates": {
@@ -25447,7 +25447,7 @@
     },
     "HAT093": {
         "flight_number": "HAT093",
-        "origin": "HSA",
+        "origin": "NQZ",
         "destination": "CIT",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "04:00:00",
@@ -25727,7 +25727,7 @@
     "HAT094": {
         "flight_number": "HAT094",
         "origin": "GUW",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "04:00:00",
         "scheduled_arrival_time_est": "05:30:00",
         "dates": {
@@ -26002,7 +26002,7 @@
     "HAT095": {
         "flight_number": "HAT095",
         "origin": "KZO",
-        "destination": "BHK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "18:00:00",
         "dates": {
@@ -26279,7 +26279,7 @@
     "HAT096": {
         "flight_number": "HAT096",
         "origin": "UKK",
-        "destination": "FRU",
+        "destination": "ALA",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "08:00:00",
         "dates": {
@@ -26551,8 +26551,8 @@
     },
     "HAT097": {
         "flight_number": "HAT097",
-        "origin": "PWQ",
-        "destination": "BHK",
+        "origin": "PPK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "11:00:00",
         "dates": {
@@ -27107,8 +27107,8 @@
     },
     "HAT099": {
         "flight_number": "HAT099",
-        "origin": "TAS",
-        "destination": "OMS",
+        "origin": "KSN",
+        "destination": "PPK",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "20:00:00",
         "dates": {
@@ -27382,7 +27382,7 @@
     },
     "HAT100": {
         "flight_number": "HAT100",
-        "origin": "OMS",
+        "origin": "PPK",
         "destination": "ALA",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "19:00:00",
@@ -28210,7 +28210,7 @@
     "HAT103": {
         "flight_number": "HAT103",
         "origin": "GUW",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "06:00:00",
         "dates": {
@@ -28485,7 +28485,7 @@
     "HAT104": {
         "flight_number": "HAT104",
         "origin": "GUW",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "10:00:00",
         "scheduled_arrival_time_est": "14:00:00",
         "dates": {
@@ -28757,8 +28757,8 @@
     },
     "HAT105": {
         "flight_number": "HAT105",
-        "origin": "KGF",
-        "destination": "HSA",
+        "origin": "PWQ",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "10:00:00",
         "dates": {
@@ -29036,8 +29036,8 @@
     },
     "HAT106": {
         "flight_number": "HAT106",
-        "origin": "BHK",
-        "destination": "PWQ",
+        "origin": "KZO",
+        "destination": "PPK",
         "scheduled_departure_time_est": "04:00:00",
         "scheduled_arrival_time_est": "08:00:00",
         "dates": {
@@ -29315,8 +29315,8 @@
     },
     "HAT107": {
         "flight_number": "HAT107",
-        "origin": "OMS",
-        "destination": "AKX",
+        "origin": "PPK",
+        "destination": "ALA",
         "scheduled_departure_time_est": "09:00:00",
         "scheduled_arrival_time_est": "11:00:00",
         "dates": {
@@ -29866,7 +29866,7 @@
     "HAT109": {
         "flight_number": "HAT109",
         "origin": "GUW",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "04:00:00",
         "dates": {
@@ -30141,7 +30141,7 @@
     "HAT110": {
         "flight_number": "HAT110",
         "origin": "CIT",
-        "destination": "FRU",
+        "destination": "ALA",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "16:30:00",
         "dates": {
@@ -30419,7 +30419,7 @@
     },
     "HAT111": {
         "flight_number": "HAT111",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "PPK",
         "scheduled_departure_time_est": "05:00:00",
         "scheduled_arrival_time_est": "07:00:00",
@@ -30975,8 +30975,8 @@
     },
     "HAT113": {
         "flight_number": "HAT113",
-        "origin": "OMS",
-        "destination": "TAS",
+        "origin": "PPK",
+        "destination": "KSN",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "22:00:00",
         "dates": {
@@ -31254,8 +31254,8 @@
     },
     "HAT114": {
         "flight_number": "HAT114",
-        "origin": "FRU",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "21:00:00",
         "scheduled_arrival_time_est": "01:30:00+1",
         "dates": {
@@ -31532,7 +31532,7 @@
     "HAT115": {
         "flight_number": "HAT115",
         "origin": "KZO",
-        "destination": "ASB",
+        "destination": "AKX",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "12:30:00",
         "dates": {
@@ -31807,7 +31807,7 @@
     "HAT116": {
         "flight_number": "HAT116",
         "origin": "SCO",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "10:30:00",
         "dates": {
@@ -32081,8 +32081,8 @@
     },
     "HAT117": {
         "flight_number": "HAT117",
-        "origin": "OMS",
-        "destination": "TAS",
+        "origin": "PPK",
+        "destination": "KSN",
         "scheduled_departure_time_est": "10:00:00",
         "scheduled_arrival_time_est": "14:00:00",
         "dates": {
@@ -32358,8 +32358,8 @@
     },
     "HAT118": {
         "flight_number": "HAT118",
-        "origin": "HSA",
-        "destination": "KGF",
+        "origin": "NQZ",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "04:00:00",
         "scheduled_arrival_time_est": "06:00:00",
         "dates": {
@@ -32637,8 +32637,8 @@
     },
     "HAT119": {
         "flight_number": "HAT119",
-        "origin": "PWQ",
-        "destination": "HSA",
+        "origin": "PPK",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "18:00:00",
         "dates": {
@@ -32914,7 +32914,7 @@
     },
     "HAT120": {
         "flight_number": "HAT120",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "04:00:00+1",
@@ -33191,8 +33191,8 @@
     },
     "HAT121": {
         "flight_number": "HAT121",
-        "origin": "OMS",
-        "destination": "BHK",
+        "origin": "PPK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "09:00:00",
         "dates": {
@@ -33747,8 +33747,8 @@
     },
     "HAT123": {
         "flight_number": "HAT123",
-        "origin": "AKX",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "18:00:00",
         "dates": {
@@ -34024,7 +34024,7 @@
     },
     "HAT124": {
         "flight_number": "HAT124",
-        "origin": "TAS",
+        "origin": "KSN",
         "destination": "GUW",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "22:00:00",
@@ -34297,7 +34297,7 @@
     },
     "HAT125": {
         "flight_number": "HAT125",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "PPK",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "17:00:00",
@@ -34577,7 +34577,7 @@
     "HAT126": {
         "flight_number": "HAT126",
         "origin": "ALA",
-        "destination": "ASB",
+        "destination": "AKX",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "23:00:00",
         "dates": {
@@ -34854,7 +34854,7 @@
     "HAT127": {
         "flight_number": "HAT127",
         "origin": "PPK",
-        "destination": "PWQ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "00:00:00+1",
         "dates": {
@@ -35128,7 +35128,7 @@
     },
     "HAT128": {
         "flight_number": "HAT128",
-        "origin": "TAS",
+        "origin": "KSN",
         "destination": "CIT",
         "scheduled_departure_time_est": "01:00:00",
         "scheduled_arrival_time_est": "03:00:00",
@@ -35403,8 +35403,8 @@
     },
     "HAT129": {
         "flight_number": "HAT129",
-        "origin": "ASB",
-        "destination": "HSA",
+        "origin": "AKX",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "21:00:00",
         "scheduled_arrival_time_est": "00:00:00+1",
         "dates": {
@@ -35682,8 +35682,8 @@
     },
     "HAT130": {
         "flight_number": "HAT130",
-        "origin": "KGF",
-        "destination": "ASB",
+        "origin": "PWQ",
+        "destination": "AKX",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "06:00:00",
         "dates": {
@@ -36238,7 +36238,7 @@
     },
     "HAT132": {
         "flight_number": "HAT132",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "18:00:00",
@@ -36512,7 +36512,7 @@
     "HAT133": {
         "flight_number": "HAT133",
         "origin": "CIT",
-        "destination": "OMS",
+        "destination": "PPK",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "07:00:00",
         "dates": {
@@ -36788,8 +36788,8 @@
     },
     "HAT134": {
         "flight_number": "HAT134",
-        "origin": "AKX",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "09:00:00",
         "dates": {
@@ -37066,7 +37066,7 @@
     "HAT135": {
         "flight_number": "HAT135",
         "origin": "UKK",
-        "destination": "FRU",
+        "destination": "ALA",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "16:00:00",
         "dates": {
@@ -37897,7 +37897,7 @@
     "HAT138": {
         "flight_number": "HAT138",
         "origin": "SCO",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "11:00:00",
         "scheduled_arrival_time_est": "13:30:00",
         "dates": {
@@ -38171,7 +38171,7 @@
     },
     "HAT139": {
         "flight_number": "HAT139",
-        "origin": "HSA",
+        "origin": "NQZ",
         "destination": "UKK",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "19:00:00",
@@ -38450,8 +38450,8 @@
     },
     "HAT140": {
         "flight_number": "HAT140",
-        "origin": "KGF",
-        "destination": "TAS",
+        "origin": "PWQ",
+        "destination": "KSN",
         "scheduled_departure_time_est": "21:00:00",
         "scheduled_arrival_time_est": "23:00:00",
         "dates": {
@@ -39008,7 +39008,7 @@
     },
     "HAT142": {
         "flight_number": "HAT142",
-        "origin": "TAS",
+        "origin": "KSN",
         "destination": "NQZ",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "21:30:00",
@@ -39279,7 +39279,7 @@
     },
     "HAT143": {
         "flight_number": "HAT143",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "DMB",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "20:00:00",
@@ -39558,8 +39558,8 @@
     },
     "HAT144": {
         "flight_number": "HAT144",
-        "origin": "AKX",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "03:00:00",
         "scheduled_arrival_time_est": "05:00:00",
         "dates": {
@@ -39835,7 +39835,7 @@
     },
     "HAT145": {
         "flight_number": "HAT145",
-        "origin": "OVB",
+        "origin": "UKK",
         "destination": "URA",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "19:30:00",
@@ -40393,7 +40393,7 @@
     },
     "HAT147": {
         "flight_number": "HAT147",
-        "origin": "HSA",
+        "origin": "NQZ",
         "destination": "SCO",
         "scheduled_departure_time_est": "09:00:00",
         "scheduled_arrival_time_est": "11:30:00",
@@ -40672,8 +40672,8 @@
     },
     "HAT148": {
         "flight_number": "HAT148",
-        "origin": "ASB",
-        "destination": "KGF",
+        "origin": "AKX",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "02:00:00+1",
         "dates": {
@@ -41230,8 +41230,8 @@
     },
     "HAT150": {
         "flight_number": "HAT150",
-        "origin": "FRU",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "23:30:00",
         "dates": {
@@ -41784,7 +41784,7 @@
     },
     "HAT152": {
         "flight_number": "HAT152",
-        "origin": "BHK",
+        "origin": "KZO",
         "destination": "SCO",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "18:00:00",
@@ -42062,7 +42062,7 @@
     "HAT153": {
         "flight_number": "HAT153",
         "origin": "URA",
-        "destination": "BHK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "17:30:00",
         "dates": {
@@ -42618,7 +42618,7 @@
     "HAT155": {
         "flight_number": "HAT155",
         "origin": "GUW",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "21:00:00",
         "scheduled_arrival_time_est": "22:30:00",
         "dates": {
@@ -42894,8 +42894,8 @@
     },
     "HAT156": {
         "flight_number": "HAT156",
-        "origin": "BHK",
-        "destination": "OMS",
+        "origin": "KZO",
+        "destination": "PPK",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "10:00:00",
         "dates": {
@@ -43452,7 +43452,7 @@
     },
     "HAT158": {
         "flight_number": "HAT158",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "UKK",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "09:30:00",
@@ -43723,8 +43723,8 @@
     },
     "HAT159": {
         "flight_number": "HAT159",
-        "origin": "BHK",
-        "destination": "AKX",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "16:00:00",
         "dates": {
@@ -43998,7 +43998,7 @@
     },
     "HAT160": {
         "flight_number": "HAT160",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "DMB",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "09:00:00",
@@ -44276,7 +44276,7 @@
     "HAT161": {
         "flight_number": "HAT161",
         "origin": "URA",
-        "destination": "BHK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "11:00:00",
         "scheduled_arrival_time_est": "15:30:00",
         "dates": {
@@ -44553,7 +44553,7 @@
     "HAT162": {
         "flight_number": "HAT162",
         "origin": "KZO",
-        "destination": "KGF",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "16:00:00",
         "dates": {
@@ -44825,7 +44825,7 @@
     },
     "HAT163": {
         "flight_number": "HAT163",
-        "origin": "AKX",
+        "origin": "ALA",
         "destination": "GUW",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "21:30:00",
@@ -45103,7 +45103,7 @@
     "HAT164": {
         "flight_number": "HAT164",
         "origin": "CIT",
-        "destination": "FRU",
+        "destination": "ALA",
         "scheduled_departure_time_est": "11:00:00",
         "scheduled_arrival_time_est": "13:30:00",
         "dates": {
@@ -45381,7 +45381,7 @@
     },
     "HAT165": {
         "flight_number": "HAT165",
-        "origin": "HSA",
+        "origin": "NQZ",
         "destination": "SCO",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "02:30:00",
@@ -45928,7 +45928,7 @@
     "HAT167": {
         "flight_number": "HAT167",
         "origin": "DMB",
-        "destination": "PWQ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "20:00:00",
         "dates": {
@@ -46202,7 +46202,7 @@
     },
     "HAT168": {
         "flight_number": "HAT168",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "DMB",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "20:00:00",
@@ -46477,7 +46477,7 @@
     },
     "HAT169": {
         "flight_number": "HAT169",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "ALA",
         "scheduled_departure_time_est": "04:00:00",
         "scheduled_arrival_time_est": "06:00:00",
@@ -46754,7 +46754,7 @@
     },
     "HAT170": {
         "flight_number": "HAT170",
-        "origin": "TAS",
+        "origin": "KSN",
         "destination": "GUW",
         "scheduled_departure_time_est": "03:00:00",
         "scheduled_arrival_time_est": "06:00:00",
@@ -47306,7 +47306,7 @@
     },
     "HAT172": {
         "flight_number": "HAT172",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "00:00:00+1",
@@ -47585,7 +47585,7 @@
     },
     "HAT173": {
         "flight_number": "HAT173",
-        "origin": "BHK",
+        "origin": "KZO",
         "destination": "KZO",
         "scheduled_departure_time_est": "09:00:00",
         "scheduled_arrival_time_est": "10:00:00",
@@ -48419,7 +48419,7 @@
     "HAT176": {
         "flight_number": "HAT176",
         "origin": "DMB",
-        "destination": "PWQ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "02:00:00",
         "dates": {
@@ -48691,7 +48691,7 @@
     },
     "HAT177": {
         "flight_number": "HAT177",
-        "origin": "TAS",
+        "origin": "KSN",
         "destination": "CIT",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "22:00:00",
@@ -49521,7 +49521,7 @@
     "HAT180": {
         "flight_number": "HAT180",
         "origin": "SCO",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "11:00:00",
         "dates": {
@@ -49797,7 +49797,7 @@
     },
     "HAT181": {
         "flight_number": "HAT181",
-        "origin": "BHK",
+        "origin": "KZO",
         "destination": "URA",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "03:30:00+1",
@@ -50074,7 +50074,7 @@
     },
     "HAT182": {
         "flight_number": "HAT182",
-        "origin": "OVB",
+        "origin": "UKK",
         "destination": "URA",
         "scheduled_departure_time_est": "04:00:00",
         "scheduled_arrival_time_est": "07:30:00",
@@ -50351,8 +50351,8 @@
     },
     "HAT183": {
         "flight_number": "HAT183",
-        "origin": "TAS",
-        "destination": "OMS",
+        "origin": "KSN",
+        "destination": "PPK",
         "scheduled_departure_time_est": "05:00:00",
         "scheduled_arrival_time_est": "09:00:00",
         "dates": {
@@ -50626,8 +50626,8 @@
     },
     "HAT184": {
         "flight_number": "HAT184",
-        "origin": "ASB",
-        "destination": "OVB",
+        "origin": "AKX",
+        "destination": "UKK",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "11:00:00",
         "dates": {
@@ -50901,7 +50901,7 @@
     },
     "HAT185": {
         "flight_number": "HAT185",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "22:00:00",
@@ -51173,7 +51173,7 @@
     "HAT186": {
         "flight_number": "HAT186",
         "origin": "GUW",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "05:00:00",
         "dates": {
@@ -51448,7 +51448,7 @@
     "HAT187": {
         "flight_number": "HAT187",
         "origin": "GUW",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "09:00:00",
         "scheduled_arrival_time_est": "12:00:00",
         "dates": {
@@ -51997,7 +51997,7 @@
     },
     "HAT189": {
         "flight_number": "HAT189",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "09:00:00",
         "scheduled_arrival_time_est": "14:00:00",
@@ -52551,7 +52551,7 @@
     },
     "HAT191": {
         "flight_number": "HAT191",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "DMB",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "09:00:00",
@@ -52822,7 +52822,7 @@
     },
     "HAT192": {
         "flight_number": "HAT192",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "NQZ",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "02:00:00+1",
@@ -53099,8 +53099,8 @@
     },
     "HAT193": {
         "flight_number": "HAT193",
-        "origin": "ASB",
-        "destination": "KGF",
+        "origin": "AKX",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "18:00:00",
         "dates": {
@@ -53376,8 +53376,8 @@
     },
     "HAT194": {
         "flight_number": "HAT194",
-        "origin": "OMS",
-        "destination": "OVB",
+        "origin": "PPK",
+        "destination": "UKK",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "01:30:00+1",
         "dates": {
@@ -54204,7 +54204,7 @@
     "HAT197": {
         "flight_number": "HAT197",
         "origin": "UKK",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "19:00:00",
         "dates": {
@@ -54482,7 +54482,7 @@
     },
     "HAT198": {
         "flight_number": "HAT198",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "ALA",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "05:00:00",
@@ -54760,7 +54760,7 @@
     "HAT199": {
         "flight_number": "HAT199",
         "origin": "UKK",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "21:00:00",
         "dates": {
@@ -55036,7 +55036,7 @@
     },
     "HAT200": {
         "flight_number": "HAT200",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "22:00:00",
@@ -55311,8 +55311,8 @@
     },
     "HAT201": {
         "flight_number": "HAT201",
-        "origin": "FRU",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "03:00:00",
         "scheduled_arrival_time_est": "07:30:00",
         "dates": {
@@ -55587,7 +55587,7 @@
     "HAT202": {
         "flight_number": "HAT202",
         "origin": "NQZ",
-        "destination": "ASB",
+        "destination": "AKX",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "10:00:00",
         "dates": {
@@ -56134,8 +56134,8 @@
     },
     "HAT204": {
         "flight_number": "HAT204",
-        "origin": "AKX",
-        "destination": "OMS",
+        "origin": "ALA",
+        "destination": "PPK",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "10:00:00",
         "dates": {
@@ -56686,7 +56686,7 @@
     },
     "HAT206": {
         "flight_number": "HAT206",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "19:00:00",
@@ -57524,7 +57524,7 @@
     "HAT209": {
         "flight_number": "HAT209",
         "origin": "ALA",
-        "destination": "ASB",
+        "destination": "AKX",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "23:00:00",
         "dates": {
@@ -57802,7 +57802,7 @@
     },
     "HAT210": {
         "flight_number": "HAT210",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "PPK",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "08:00:00",
@@ -58079,7 +58079,7 @@
     },
     "HAT211": {
         "flight_number": "HAT211",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "DMB",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "15:30:00",
@@ -58355,7 +58355,7 @@
     "HAT212": {
         "flight_number": "HAT212",
         "origin": "ALA",
-        "destination": "PWQ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "04:00:00",
         "scheduled_arrival_time_est": "06:00:00",
         "dates": {
@@ -58634,7 +58634,7 @@
     "HAT213": {
         "flight_number": "HAT213",
         "origin": "NQZ",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "12:00:00",
         "scheduled_arrival_time_est": "15:30:00",
         "dates": {
@@ -58909,7 +58909,7 @@
     "HAT214": {
         "flight_number": "HAT214",
         "origin": "URA",
-        "destination": "BHK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "02:30:00+1",
         "dates": {
@@ -59461,7 +59461,7 @@
     "HAT216": {
         "flight_number": "HAT216",
         "origin": "DMB",
-        "destination": "OVB",
+        "destination": "UKK",
         "scheduled_departure_time_est": "05:00:00",
         "scheduled_arrival_time_est": "07:00:00",
         "dates": {
@@ -59738,7 +59738,7 @@
     "HAT217": {
         "flight_number": "HAT217",
         "origin": "URA",
-        "destination": "OVB",
+        "destination": "UKK",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "16:30:00",
         "dates": {
@@ -60291,8 +60291,8 @@
     },
     "HAT219": {
         "flight_number": "HAT219",
-        "origin": "FRU",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "18:30:00",
         "dates": {
@@ -60566,7 +60566,7 @@
     },
     "HAT220": {
         "flight_number": "HAT220",
-        "origin": "OMS",
+        "origin": "PPK",
         "destination": "CIT",
         "scheduled_departure_time_est": "03:00:00",
         "scheduled_arrival_time_est": "08:00:00",
@@ -60845,8 +60845,8 @@
     },
     "HAT221": {
         "flight_number": "HAT221",
-        "origin": "OMS",
-        "destination": "TAS",
+        "origin": "PPK",
+        "destination": "KSN",
         "scheduled_departure_time_est": "09:00:00",
         "scheduled_arrival_time_est": "13:00:00",
         "dates": {
@@ -61122,8 +61122,8 @@
     },
     "HAT222": {
         "flight_number": "HAT222",
-        "origin": "TAS",
-        "destination": "OMS",
+        "origin": "KSN",
+        "destination": "PPK",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "19:00:00",
         "dates": {
@@ -61399,7 +61399,7 @@
     },
     "HAT223": {
         "flight_number": "HAT223",
-        "origin": "HSA",
+        "origin": "NQZ",
         "destination": "CIT",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "16:00:00",
@@ -61672,7 +61672,7 @@
     },
     "HAT224": {
         "flight_number": "HAT224",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "ALA",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "18:00:00",
@@ -61951,7 +61951,7 @@
     },
     "HAT225": {
         "flight_number": "HAT225",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "DMB",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "09:00:00",
@@ -62228,8 +62228,8 @@
     },
     "HAT226": {
         "flight_number": "HAT226",
-        "origin": "BHK",
-        "destination": "FRU",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "12:30:00",
         "dates": {
@@ -62506,7 +62506,7 @@
     "HAT227": {
         "flight_number": "HAT227",
         "origin": "CIT",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "11:00:00",
         "scheduled_arrival_time_est": "13:00:00",
         "dates": {
@@ -63059,7 +63059,7 @@
     },
     "HAT229": {
         "flight_number": "HAT229",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "KZO",
         "scheduled_departure_time_est": "11:00:00",
         "scheduled_arrival_time_est": "13:00:00",
@@ -63336,8 +63336,8 @@
     },
     "HAT230": {
         "flight_number": "HAT230",
-        "origin": "HSA",
-        "destination": "PWQ",
+        "origin": "NQZ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "01:00:00",
         "dates": {
@@ -63610,7 +63610,7 @@
     "HAT231": {
         "flight_number": "HAT231",
         "origin": "NQZ",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "19:30:00",
         "dates": {
@@ -63886,7 +63886,7 @@
     },
     "HAT232": {
         "flight_number": "HAT232",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "18:00:00",
@@ -64442,8 +64442,8 @@
     },
     "HAT234": {
         "flight_number": "HAT234",
-        "origin": "TAS",
-        "destination": "OMS",
+        "origin": "KSN",
+        "destination": "PPK",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "23:00:00",
         "dates": {
@@ -64719,7 +64719,7 @@
     },
     "HAT235": {
         "flight_number": "HAT235",
-        "origin": "OVB",
+        "origin": "UKK",
         "destination": "URA",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "02:30:00+1",
@@ -64994,8 +64994,8 @@
     },
     "HAT236": {
         "flight_number": "HAT236",
-        "origin": "OMS",
-        "destination": "BHK",
+        "origin": "PPK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "16:00:00",
         "dates": {
@@ -65271,7 +65271,7 @@
     },
     "HAT237": {
         "flight_number": "HAT237",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "PPK",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "22:00:00",
@@ -65548,8 +65548,8 @@
     },
     "HAT238": {
         "flight_number": "HAT238",
-        "origin": "HSA",
-        "destination": "KGF",
+        "origin": "NQZ",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "04:00:00",
         "dates": {
@@ -65824,7 +65824,7 @@
     "HAT239": {
         "flight_number": "HAT239",
         "origin": "CIT",
-        "destination": "OMS",
+        "destination": "PPK",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "13:00:00",
         "dates": {
@@ -66102,7 +66102,7 @@
     },
     "HAT240": {
         "flight_number": "HAT240",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "ALA",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "18:00:00",
@@ -66375,8 +66375,8 @@
     },
     "HAT241": {
         "flight_number": "HAT241",
-        "origin": "KGF",
-        "destination": "TAS",
+        "origin": "PWQ",
+        "destination": "KSN",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "01:00:00+1",
         "dates": {
@@ -66653,7 +66653,7 @@
     "HAT242": {
         "flight_number": "HAT242",
         "origin": "KZO",
-        "destination": "BHK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "11:00:00",
         "scheduled_arrival_time_est": "12:00:00",
         "dates": {
@@ -67207,7 +67207,7 @@
     "HAT244": {
         "flight_number": "HAT244",
         "origin": "KZO",
-        "destination": "BHK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "10:00:00",
         "scheduled_arrival_time_est": "11:00:00",
         "dates": {
@@ -67477,8 +67477,8 @@
     },
     "HAT245": {
         "flight_number": "HAT245",
-        "origin": "FRU",
-        "destination": "BHK",
+        "origin": "ALA",
+        "destination": "KZO",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "04:30:00",
         "dates": {
@@ -67756,8 +67756,8 @@
     },
     "HAT246": {
         "flight_number": "HAT246",
-        "origin": "KGF",
-        "destination": "TAS",
+        "origin": "PWQ",
+        "destination": "KSN",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "17:00:00",
         "dates": {
@@ -68035,8 +68035,8 @@
     },
     "HAT247": {
         "flight_number": "HAT247",
-        "origin": "OVB",
-        "destination": "ASB",
+        "origin": "UKK",
+        "destination": "AKX",
         "scheduled_departure_time_est": "08:00:00",
         "scheduled_arrival_time_est": "12:00:00",
         "dates": {
@@ -68311,7 +68311,7 @@
     "HAT248": {
         "flight_number": "HAT248",
         "origin": "PPK",
-        "destination": "PWQ",
+        "destination": "PPK",
         "scheduled_departure_time_est": "05:00:00",
         "scheduled_arrival_time_est": "07:00:00",
         "dates": {
@@ -68586,7 +68586,7 @@
     "HAT249": {
         "flight_number": "HAT249",
         "origin": "GUW",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "20:30:00",
         "dates": {
@@ -68864,7 +68864,7 @@
     },
     "HAT250": {
         "flight_number": "HAT250",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "GUW",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "03:00:00+1",
@@ -69139,8 +69139,8 @@
     },
     "HAT251": {
         "flight_number": "HAT251",
-        "origin": "BHK",
-        "destination": "OMS",
+        "origin": "KZO",
+        "destination": "PPK",
         "scheduled_departure_time_est": "12:00:00",
         "scheduled_arrival_time_est": "15:00:00",
         "dates": {
@@ -69415,7 +69415,7 @@
     "HAT252": {
         "flight_number": "HAT252",
         "origin": "CIT",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "01:00:00",
         "scheduled_arrival_time_est": "03:00:00",
         "dates": {
@@ -69689,8 +69689,8 @@
     },
     "HAT253": {
         "flight_number": "HAT253",
-        "origin": "OMS",
-        "destination": "OVB",
+        "origin": "PPK",
+        "destination": "UKK",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "01:30:00+1",
         "dates": {
@@ -69968,7 +69968,7 @@
     },
     "HAT254": {
         "flight_number": "HAT254",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "PPK",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "17:00:00",
@@ -70247,8 +70247,8 @@
     },
     "HAT255": {
         "flight_number": "HAT255",
-        "origin": "KGF",
-        "destination": "ASB",
+        "origin": "PWQ",
+        "destination": "AKX",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "11:00:00",
         "dates": {
@@ -70524,8 +70524,8 @@
     },
     "HAT256": {
         "flight_number": "HAT256",
-        "origin": "BHK",
-        "destination": "FRU",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "17:30:00",
         "dates": {
@@ -70799,7 +70799,7 @@
     },
     "HAT257": {
         "flight_number": "HAT257",
-        "origin": "AKX",
+        "origin": "ALA",
         "destination": "GUW",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "23:30:00",
@@ -71074,8 +71074,8 @@
     },
     "HAT258": {
         "flight_number": "HAT258",
-        "origin": "OMS",
-        "destination": "AKX",
+        "origin": "PPK",
+        "destination": "ALA",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "19:00:00",
         "dates": {
@@ -71353,7 +71353,7 @@
     },
     "HAT259": {
         "flight_number": "HAT259",
-        "origin": "BHK",
+        "origin": "KZO",
         "destination": "KZO",
         "scheduled_departure_time_est": "17:00:00",
         "scheduled_arrival_time_est": "18:00:00",
@@ -71632,7 +71632,7 @@
     },
     "HAT260": {
         "flight_number": "HAT260",
-        "origin": "OVB",
+        "origin": "UKK",
         "destination": "DMB",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "16:00:00",
@@ -71906,7 +71906,7 @@
     "HAT261": {
         "flight_number": "HAT261",
         "origin": "ALA",
-        "destination": "HSA",
+        "destination": "NQZ",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "01:30:00+1",
         "dates": {
@@ -72183,7 +72183,7 @@
     "HAT262": {
         "flight_number": "HAT262",
         "origin": "DMB",
-        "destination": "KGF",
+        "destination": "PWQ",
         "scheduled_departure_time_est": "13:00:00",
         "scheduled_arrival_time_est": "16:00:00",
         "dates": {
@@ -72457,7 +72457,7 @@
     },
     "HAT263": {
         "flight_number": "HAT263",
-        "origin": "PWQ",
+        "origin": "PPK",
         "destination": "ALA",
         "scheduled_departure_time_est": "15:00:00",
         "scheduled_arrival_time_est": "17:00:00",
@@ -72734,7 +72734,7 @@
     },
     "HAT264": {
         "flight_number": "HAT264",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "23:00:00",
         "scheduled_arrival_time_est": "00:00:00+1",
@@ -73009,8 +73009,8 @@
     },
     "HAT265": {
         "flight_number": "HAT265",
-        "origin": "BHK",
-        "destination": "PWQ",
+        "origin": "KZO",
+        "destination": "PPK",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "11:00:00",
         "dates": {
@@ -73561,8 +73561,8 @@
     },
     "HAT267": {
         "flight_number": "HAT267",
-        "origin": "BHK",
-        "destination": "OMS",
+        "origin": "KZO",
+        "destination": "PPK",
         "scheduled_departure_time_est": "01:00:00",
         "scheduled_arrival_time_est": "04:00:00",
         "dates": {
@@ -74669,7 +74669,7 @@
     },
     "HAT271": {
         "flight_number": "HAT271",
-        "origin": "HSA",
+        "origin": "NQZ",
         "destination": "UKK",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "21:00:00",
@@ -74946,7 +74946,7 @@
     },
     "HAT272": {
         "flight_number": "HAT272",
-        "origin": "FRU",
+        "origin": "ALA",
         "destination": "DMB",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "19:30:00",
@@ -75219,7 +75219,7 @@
     },
     "HAT273": {
         "flight_number": "HAT273",
-        "origin": "AKX",
+        "origin": "ALA",
         "destination": "GUW",
         "scheduled_departure_time_est": "22:00:00",
         "scheduled_arrival_time_est": "23:30:00",
@@ -75494,8 +75494,8 @@
     },
     "HAT274": {
         "flight_number": "HAT274",
-        "origin": "OMS",
-        "destination": "AKX",
+        "origin": "PPK",
+        "destination": "ALA",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "22:00:00",
         "dates": {
@@ -75771,8 +75771,8 @@
     },
     "HAT275": {
         "flight_number": "HAT275",
-        "origin": "PWQ",
-        "destination": "BHK",
+        "origin": "PPK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "00:00:00",
         "scheduled_arrival_time_est": "04:00:00",
         "dates": {
@@ -76050,7 +76050,7 @@
     },
     "HAT276": {
         "flight_number": "HAT276",
-        "origin": "OMS",
+        "origin": "PPK",
         "destination": "ALA",
         "scheduled_departure_time_est": "18:00:00",
         "scheduled_arrival_time_est": "00:00:00+1",
@@ -76327,7 +76327,7 @@
     },
     "HAT277": {
         "flight_number": "HAT277",
-        "origin": "OVB",
+        "origin": "UKK",
         "destination": "DMB",
         "scheduled_departure_time_est": "19:00:00",
         "scheduled_arrival_time_est": "21:00:00",
@@ -76602,7 +76602,7 @@
     },
     "HAT278": {
         "flight_number": "HAT278",
-        "origin": "AKX",
+        "origin": "ALA",
         "destination": "SCO",
         "scheduled_departure_time_est": "16:00:00",
         "scheduled_arrival_time_est": "20:00:00",
@@ -77152,7 +77152,7 @@
     },
     "HAT280": {
         "flight_number": "HAT280",
-        "origin": "AKX",
+        "origin": "ALA",
         "destination": "UKK",
         "scheduled_departure_time_est": "02:00:00",
         "scheduled_arrival_time_est": "08:00:00",
@@ -77706,7 +77706,7 @@
     },
     "HAT282": {
         "flight_number": "HAT282",
-        "origin": "TAS",
+        "origin": "KSN",
         "destination": "CIT",
         "scheduled_departure_time_est": "06:00:00",
         "scheduled_arrival_time_est": "08:00:00",
@@ -77981,8 +77981,8 @@
     },
     "HAT283": {
         "flight_number": "HAT283",
-        "origin": "BHK",
-        "destination": "AKX",
+        "origin": "KZO",
+        "destination": "ALA",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "22:00:00",
         "dates": {
@@ -78261,7 +78261,7 @@
     "HAT284": {
         "flight_number": "HAT284",
         "origin": "KZO",
-        "destination": "BHK",
+        "destination": "KZO",
         "scheduled_departure_time_est": "03:00:00",
         "scheduled_arrival_time_est": "04:00:00",
         "dates": {
@@ -79084,7 +79084,7 @@
     "HAT287": {
         "flight_number": "HAT287",
         "origin": "DMB",
-        "destination": "OVB",
+        "destination": "UKK",
         "scheduled_departure_time_est": "09:00:00",
         "scheduled_arrival_time_est": "11:00:00",
         "dates": {
@@ -79362,7 +79362,7 @@
     },
     "HAT288": {
         "flight_number": "HAT288",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "KZO",
         "scheduled_departure_time_est": "20:00:00",
         "scheduled_arrival_time_est": "00:30:00+1",
@@ -79639,7 +79639,7 @@
     },
     "HAT289": {
         "flight_number": "HAT289",
-        "origin": "HSA",
+        "origin": "NQZ",
         "destination": "UKK",
         "scheduled_departure_time_est": "05:00:00",
         "scheduled_arrival_time_est": "07:00:00",
@@ -79916,7 +79916,7 @@
     },
     "HAT290": {
         "flight_number": "HAT290",
-        "origin": "KGF",
+        "origin": "PWQ",
         "destination": "KZO",
         "scheduled_departure_time_est": "14:00:00",
         "scheduled_arrival_time_est": "16:00:00",
@@ -80196,7 +80196,7 @@
     "HAT291": {
         "flight_number": "HAT291",
         "origin": "UKK",
-        "destination": "AKX",
+        "destination": "ALA",
         "scheduled_departure_time_est": "03:00:00",
         "scheduled_arrival_time_est": "09:00:00",
         "dates": {
@@ -80474,7 +80474,7 @@
     },
     "HAT292": {
         "flight_number": "HAT292",
-        "origin": "ASB",
+        "origin": "AKX",
         "destination": "ALA",
         "scheduled_departure_time_est": "01:00:00",
         "scheduled_arrival_time_est": "04:00:00",
@@ -81024,8 +81024,8 @@
     },
     "HAT294": {
         "flight_number": "HAT294",
-        "origin": "AKX",
-        "destination": "OVB",
+        "origin": "ALA",
+        "destination": "UKK",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "13:00:00",
         "dates": {
@@ -81301,8 +81301,8 @@
     },
     "HAT295": {
         "flight_number": "HAT295",
-        "origin": "AKX",
-        "destination": "OVB",
+        "origin": "ALA",
+        "destination": "UKK",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "13:00:00",
         "dates": {
@@ -81577,7 +81577,7 @@
     "HAT296": {
         "flight_number": "HAT296",
         "origin": "UKK",
-        "destination": "FRU",
+        "destination": "ALA",
         "scheduled_departure_time_est": "07:00:00",
         "scheduled_arrival_time_est": "08:00:00",
         "dates": {
@@ -81852,7 +81852,7 @@
     "HAT297": {
         "flight_number": "HAT297",
         "origin": "CIT",
-        "destination": "TAS",
+        "destination": "KSN",
         "scheduled_departure_time_est": "12:00:00",
         "scheduled_arrival_time_est": "14:00:00",
         "dates": {

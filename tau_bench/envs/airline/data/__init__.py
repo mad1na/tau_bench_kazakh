@@ -8,11 +8,11 @@ FOLDER_PATH = os.path.dirname(__file__)
 
 
 def load_data() -> dict[str, Any]:
-    with open(os.path.join(FOLDER_PATH, "flights.json")) as f:
+    with open(os.path.join(FOLDER_PATH, "flights.json"), encoding='utf-8') as f:
         flight_data = json.load(f)
-    with open(os.path.join(FOLDER_PATH, "reservations.json")) as f:
+    with open(os.path.join(FOLDER_PATH, "reservations.json"), encoding='utf-8') as f:
         reservation_data = json.load(f)
-    with open(os.path.join(FOLDER_PATH, "users.json")) as f:
+    with open(os.path.join(FOLDER_PATH, "users.json"), encoding='utf-8') as f:
         user_data = json.load(f)
     return {
         "flights": flight_data,

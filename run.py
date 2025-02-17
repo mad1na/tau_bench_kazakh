@@ -94,10 +94,10 @@ def run(
             with lock:
                 data = []
                 if os.path.exists(ckpt_path):
-                    with open(ckpt_path, "r") as f:
+                    with open(ckpt_path, "r", encoding='utf-8') as f:
                         data = json.load(f)
-                with open(ckpt_path, "w") as f:
-                    json.dump(data + [result.model_dump()], f, indent=2)
+                with open(ckpt_path, "w", encoding='utf-8') as f:
+                    json.dump(data + [result.model_dump()], f, indent=2, ensure_ascii=False)
             return result
 
         with ThreadPoolExecutor(max_workers=args.max_concurrency) as executor:
@@ -267,8 +267,8 @@ def main():
 
     display_metrics(results)
 
-    with open(file_str, "w") as f:
-        json.dump([result.model_dump() for result in results], f, indent=2)
+    with open(file_str, "w", encoding='utf-8') as f:
+        json.dump([result.model_dump() for result in results], f, indent=2, ensure_ascii=False)
         print(f"\n📄 Results saved to {file_str}\n")
 
 

@@ -35,7 +35,7 @@ class CancelReservation(Tool):
             "type": "function",
             "function": {
                 "name": "cancel_reservation",
-                "description": "Бүкіл брондауды жойыңыз."",
+                "description": "Бүкіл брондауды жойыңыз.",
                 "parameters": {
                     "type": "object",
                     "properties": {
