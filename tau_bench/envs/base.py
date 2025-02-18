@@ -1,6 +1,7 @@
 # Copyright Sierra
 
 import random
+import json
 from hashlib import sha256
 from tau_bench.envs.tool import Tool
 from typing import Any, Callable, Dict, List, Type, Optional, Set, Union, Tuple
@@ -131,6 +132,7 @@ class Env(object):
         # Check if the database changes are correct. If they are not correct, then we set the reward to 0.
         # TODO: cache gt_data_hash in tasks.py (low priority)
         self.data = self.data_load_func()
+
         for action in self.task.actions:
             if action.name not in self.terminate_tools:
                 self.step(action)

@@ -177,8 +177,8 @@ def fault_type_analysis(api: API, results: List[OriginalResult], max_concurrency
 def main() -> None:
     args = get_args()
     api = default_api_from_args(args)
-    with open(args.results_path, "r") as f:
-        results = json.load(f)
+    with open(args.results_path, "r", encoding="utf-8") as f:
+        results = json.load(f, )
     print(f"Loaded {len(results)} results")
     env = args.env
     if env == "airline":
@@ -219,11 +219,11 @@ Fault type distribution (only failures marked as being caused by the agent):
   - Goal partially completed: {sum(1 for r in fault_type_results if r.fault_type == FaultType.GOAL_PARTIALLY_COMPLETED)} ({round(sum(1 for r in fault_type_results if r.fault_type == FaultType.GOAL_PARTIALLY_COMPLETED) / len(fault_type_results) * 100, 2)}%)
   - Other: {sum(1 for r in fault_type_results if r.fault_type == FaultType.OTHER)} ({round(sum(1 for r in fault_type_results if r.fault_type == FaultType.OTHER) / len(fault_type_results) * 100, 2)}%)
 """)
-    with open(args.output_path, "w") as f:
+    with open(args.output_path, "w", encoding="utf-8") as f:
         json.dump({
             "fault_assignment_analysis": [r.model_dump() for r in fault_assignment_results],
             "fault_type_analysis": [r.model_dump() for r in fault_type_results],
-        }, f, indent=4)
+        }, f, ensure_ascii=False, indent=4)
     print(f"Saved results to {args.output_path}")
 
 if __name__ == "__main__":
